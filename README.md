@@ -1,2 +1,2 @@
 # AdventOfCode-Solutions
-Solution to Advent Of Code problems.
+Puzzles and solutions of [Advent of Code](https://adventofcode.com)
